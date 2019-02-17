@@ -1,0 +1,6 @@
+DROP TABLE EMPLOYEE CASCADE CONSTRAINTS;
+CREATE TABLE EMPLOYEE (FIRST_NAME VARCHAR2(90), 
+                       LAST_NAME VARCHAR2(90),
+                       SOME_FILE BLOB );
+                       
+                       
